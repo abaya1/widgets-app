@@ -39,4 +39,9 @@ const Dropdown = (props) =>
     )
 }
 
+function worthless()
+{
+ return history;
+}
+
 export default Dropdown;
